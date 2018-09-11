@@ -1,8 +1,7 @@
-# flutter_profilepage
+# Flutter - Profile Screen
 
-A new Flutter project.
+A simple clean profile page desgined in flutter
 
-## Getting Started
+UI screen credit - https://dribbble.com/shots/3466120
 
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+Watch how to create this here - https://youtu.be/K2cyOZtQvwY
